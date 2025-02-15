@@ -98,7 +98,7 @@ Stack Overflow – For community support on debugging and improving code quality
 Author
 
 Contact
-[Linkedin]((https://www.linkedin.com/in/rikkihenry/))
+[Linkedin](https://www.linkedin.com/in/rikkihenry/)
 
 Acknowledgments
 I would like to thank everyone who supported me during this project, including peers, mentors, and the helpful community on Stack Overflow. Special thanks to those whose projects and tutorials inspired parts of this game design.
